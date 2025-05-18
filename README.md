@@ -4,6 +4,9 @@ A dynamic web-based system for managing restaurant orders, menu items, drivers, 
 
 ---
 
+## Project Images
+![Menu image](menuWorkEx.png)
+
 ## 🎯 Project Summary
 
 This was a full-stack PHP application built for a class project. It handles the entire restaurant order lifecycle — from placing orders and managing menu items to assigning drivers and viewing past orders. Data is stored in a MySQL database and dynamically rendered with PHP.
